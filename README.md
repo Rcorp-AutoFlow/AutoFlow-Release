@@ -2,8 +2,8 @@
 
 > Smart Windows automation for repetitive tasks — click, type, capture, and conditionally branch your way through any app or game.
 
-[![Latest Release](https://img.shields.io/github/v/release/YOUR_GITHUB_USERNAME/AutoFlow-releases?label=download&color=brightgreen)](../../releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/YOUR_GITHUB_USERNAME/AutoFlow-releases/total?color=blue)](../../releases)
+[![Latest Release](https://img.shields.io/github/v/release/Rcorp-AutoFlow/AutoFlow-Release?label=download&color=brightgreen)](../../releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/Rcorp-AutoFlow/AutoFlow-Release/total?color=blue)](../../releases)
 [![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-lightgrey)](#system-requirements)
 
 ---
@@ -12,8 +12,8 @@
 
 Grab the latest installer from the [**Releases**](../../releases/latest) page.
 
-| File | Description |
-|------|-------------|
+| File                      | Description                                                                   |
+| ------------------------- | ----------------------------------------------------------------------------- |
 | `AutoFlow_Setup_vX.Y.exe` | Windows installer — one-click install, creates Start Menu + desktop shortcuts |
 
 After install, AutoFlow checks for new versions automatically — you don't have to come back here.
@@ -37,13 +37,13 @@ After install, AutoFlow checks for new versions automatically — you don't have
 
 ## 🆓 Free vs ⭐ Pro
 
-| Feature                 | Free       | Pro        |
-|-------------------------|------------|------------|
-| Steps per script        | 20 steps   | Unlimited  |
-| Run time per script     | 30 min     | Unlimited  |
-| Background window mode  | ✖          | ✔          |
-| AI OCR (online)         | ✖          | ✔          |
-| Updates & support       | ✔          | ✔          |
+| Feature                | Free     | Pro       |
+| ---------------------- | -------- | --------- |
+| Steps per script       | 20 steps | Unlimited |
+| Run time per script    | 30 min   | Unlimited |
+| Background window mode | ✖        | ✔         |
+| AI OCR (online)        | ✖        | ✔         |
+| Updates & support      | ✔        | ✔         |
 
 Subscription is hardware-bound (one PC per license). The Hardware ID is shown inside the app under **Subscription**.
 
@@ -66,7 +66,7 @@ AutoFlow checks this repository for new releases:
 
 - **Once at startup**, ~3 seconds after launch
 - **Every hour** while the app is running
-- **Manually**, via right-click on the license badge → *Check for Update…*
+- **Manually**, via right-click on the license badge → _Check for Update…_
 
 When an update is found you'll see a dialog with the changelog and a **Download & Install** button. Click it and AutoFlow will:
 
@@ -91,7 +91,7 @@ Found a bug or have a feature request? Open an [issue](../../issues) — please 
 
 ## 📄 License
 
-AutoFlow is proprietary commercial software. © YOUR_NAME_HERE. All rights reserved.
+AutoFlow is proprietary commercial software. © Rcorp-AutoFlow. All rights reserved.
 The installer and binaries hosted in this repository are distributed under the
 end-user license agreement shipped with the installer.
 
