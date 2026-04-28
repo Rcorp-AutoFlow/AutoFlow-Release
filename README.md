@@ -70,7 +70,7 @@ AutoFlow checks this repository for new releases:
 
 When an update is found you'll see a dialog with the changelog and a **Download & Install** button. Click it and AutoFlow will:
 
-1. Download the installer to your `%TEMP%` folder
+1. Download the installer
 2. Launch it
 3. Close itself so the new version can replace the files cleanly
 
