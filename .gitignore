@@ -1,0 +1,4 @@
+# Compiled installers — these are uploaded to GitHub Releases as assets,
+# not committed to the repo.
+installers/
+*.exe
