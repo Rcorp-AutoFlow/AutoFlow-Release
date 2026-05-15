@@ -42,8 +42,8 @@ After install, AutoFlow checks for new versions automatically — you don't have
 | Steps per script       | 20 steps | Unlimited |
 | Run time per script    | 30 min   | Unlimited |
 | Background window mode | ✖        | ✔         |
-| AI OCR (online)        | ✖        | ✔         |
-| Updates & support      | ✔        | ✔         |
+| AI OCR                 | ✖        | ✔         |
+| Multi script runtime   | ✔        | ✔         |
 
 Subscription is hardware-bound (one PC per license). The Hardware ID is shown inside the app under **Subscription**.
 
@@ -53,21 +53,15 @@ Subscription is hardware-bound (one PC per license). The Hardware ID is shown in
 
 - Windows 10 (1809+) or Windows 11
 - 64-bit CPU
-- ~150 MB disk space
+- ~950 MB disk space
 - Internet connection on first launch (license check) and for online OCR / updates
 
-The installer bundles all runtime dependencies — no separate .NET install needed.
 
 ---
 
 ## 🔄 Auto-Update
 
-AutoFlow checks this repository for new releases:
-
-- **Once at startup**, ~3 seconds after launch
-- **Every hour** while the app is running
-- **Manually**, via right-click on the license badge → _Check for Update…_
-
+AutoFlow checks this repository for new releases.
 When an update is found you'll see a dialog with the changelog and a **Download & Install** button. Click it and AutoFlow will:
 
 1. Download the installer
